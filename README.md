@@ -13,17 +13,11 @@ This project analyzes the United Kingdom data job market, with a focus on data e
 
 ## Tools Used
 
-- **Python** – the backbone of the analysis, enabling data processing and insight extraction.
-    - **Pandas** – for data manipulation and analysis.
-    - **Matplotlib** – for basic visualizations.
-    - **Seaborn** – for advanced and visually appealing charts.
-- **Jupyter Notebooks** – for running Python scripts with notes and inline results.
-- **Visual Studio Code** – for developing and executing Python scripts.
-- **Git & GitHub** – for version control and sharing code.
+- **Python**
 
 # Analysis
 
-Each Jupyter Notebook in this project explores specific aspects of the UK data job market. You can review their contents and code in the [project folder](python_files).
+You can review contents of each Jupyter Notebooks in the [project folder](python_files).
 
 ## Skill Demand
 
