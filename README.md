@@ -117,7 +117,3 @@ From the analysis of the UK data job market:
 - Data Engineers have the highest median salaries, while Data Scientists offer the greatest potential at the top end.  
 - Cloud platforms (Azure, GCP, AWS) and Big Data technologies (Spark, Snowflake, Databricks) represent high-value skills, combining demand with premium pay.  
 - Specialized tools like Looker, DAX, and Power BI offer niche opportunities with higher-than-average compensation.
-
-## Personal Reflections
-
-Throughout this project, I improved essential skills such as data cleaning, data visualization, and the basics of Python. I faced several challenges along the way, including handling messy data and selecting the right visualizations, but in the end, I successfully completed the project and gained valuable practical experience.
