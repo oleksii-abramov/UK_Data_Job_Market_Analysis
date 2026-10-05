@@ -3,8 +3,6 @@
 
 This project analyzes the United Kingdom data job market, with a focus on data engineering roles. The goal is to uncover valuable insights about skills, salaries, and demand in this field.
 
-The dataset comes from [Luke Barousse's Python Course](https://lukebarousse.com/python), providing a solid foundation for analysis. It includes detailed information on job titles, salaries, locations, and key skills.
-
 ## Questions to Answer
 
 1. What are the most in-demand skills for the top three most popular data roles?
